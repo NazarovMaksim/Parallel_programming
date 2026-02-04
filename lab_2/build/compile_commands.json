@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/studies/parallel_pr/lab_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe    -march=native -g -std=gnu++23 -o CMakeFiles\\Parallelism.dir\\main.cpp.obj -c C:\\studies\\parallel_pr\\lab_2\\main.cpp",
+  "file": "C:/studies/parallel_pr/lab_2/main.cpp",
+  "output": "CMakeFiles/Parallelism.dir/main.cpp.obj"
+}
+]

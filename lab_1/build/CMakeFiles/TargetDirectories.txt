@@ -1,0 +1,3 @@
+C:/studies/parallel_pr/lab_1/build/CMakeFiles/Parallelism.dir
+C:/studies/parallel_pr/lab_1/build/CMakeFiles/edit_cache.dir
+C:/studies/parallel_pr/lab_1/build/CMakeFiles/rebuild_cache.dir
